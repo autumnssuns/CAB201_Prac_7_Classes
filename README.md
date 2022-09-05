@@ -1,10 +1,53 @@
-# CAB201 Programming Principles
+Ôªø# CAB201 Programming Principles
+
+# Git Guide
+
+_Skip this section if you know what you're doing üòé_
+
+<details open>
+ <summary>Click here to close / open.</summary>
+
+## Download the template
+
+To download the template, open a terminal in a desired location. Then execute
+
+```
+git clone https://github.com/autumnssuns/CAB201_Prac_7_Classes.git
+```
+
+A `CAB201_Prac_7_Classes` folder will be created. Open the folder and execute the
+`CAB201_Prac_7.sln` file and all your projects should load up.
+
+## Get the solution
+
+The solution in your current workshop and the workshop answers are stored
+in a structure call `branch`.
+
+The workshop answers can be found [here](https://github.com/autumnssuns/CAB201_Prac_6_Classes/tree/solution). This will
+be updated every Monday.
+
+## Update live solution (Advanced)
+
+To sync your project the current workshop's solution, apply the following steps:
+
+1. In your terminal, execute `git stash`. This will save your current version.
+1. Afterwards, you can switch to any other branch using `git checkout <branch-name>`. Replace the branch name with either"
+    
+    `monday-dan-3-5pm` if you are in the 3-5pm workshop, or
+    
+    `monday-dan-5-7pm` if you are in the 5-7pm workshop.
+1. If you want to revert back to your solution, execute `git checkout master && git stash pop`. This will 
+    bring you back to your version and applied the changes you saved in step (1).
+
+_It's never too early to learn Git, it is tremendously helpful and there are plenty of online resources, like [W3Schools](https://www.w3schools.com/git/default.asp?remote=github)._
+
+</details>
 
 # Worksheet 7 : Why Object-Oriented?
 
 This week we are going to look at iterative and incremental design? This requires us to take a step
-back and asking us why are we building it? Weíll have a look at a few object-oriented cases, and then
-weíll have a look at abstraction and encapsulation. The homework will be to create object-oriented
+back and asking us why are we building it? We‚Äôll have a look at a few object-oriented cases, and then
+we‚Äôll have a look at abstraction and encapsulation. The homework will be to create object-oriented
 implementation, with multiple classes.
 
 ## Who are our users?
@@ -17,7 +60,7 @@ implementation, with multiple classes.
 
 2. Create a program called **MyClock** that contains fields for hours, minutes and
     seconds. Create a constructor that creates a class with each of the fields. Include
-    properties so that the fields are read only and ensure that each of the constructorís
+    properties so that the fields are read only and ensure that each of the constructor‚Äôs
     parameters have valid ranges (e.g., Hours 0 - 23 , Minutes 0-59, Seconds 0-59). Invalid
     constructors should output an appropriate message. Write a class called
     **TestMyClock** which calls MyClock with valid and invalid creation data.
@@ -106,7 +149,7 @@ implementation, with multiple classes.
     be 1, the number of minutes to be 2 3 , and the number of seconds to be 20.
 
 
-    Add a method that will display the time in the format ìHH:MM:SSî (where HH is
+    Add a method that will display the time in the format ‚ÄúHH:MM:SS‚Äù (where HH is
     hours, MM is minutes and SS is seconds).
 
 
