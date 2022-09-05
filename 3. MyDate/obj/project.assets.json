@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\3. MyDate\\Q3_MyDate.csproj",
-      "projectName": "Q3_MyDate",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\3. MyDate\\Q3_MyDate.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\3. MyDate\\C3_MyDate.csproj",
+      "projectName": "C3_MyDate",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\3. MyDate\\C3_MyDate.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\3. MyDate\\obj\\",
       "projectStyle": "PackageReference",

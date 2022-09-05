@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\5. Cooking\\Q5_Cooking.csproj",
-      "projectName": "Q5_Cooking",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\5. Cooking\\Q5_Cooking.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\5. Cooking\\C5_Cooking.csproj",
+      "projectName": "C5_Cooking",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\5. Cooking\\C5_Cooking.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\5. Cooking\\obj\\",
       "projectStyle": "PackageReference",

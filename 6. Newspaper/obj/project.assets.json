@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\6. Newspaper\\Q6_Newspaper.csproj",
-      "projectName": "Q6_Newspaper",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\6. Newspaper\\Q6_Newspaper.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\6. Newspaper\\C6_Newspaper.csproj",
+      "projectName": "C6_Newspaper",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\6. Newspaper\\C6_Newspaper.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\6. Newspaper\\obj\\",
       "projectStyle": "PackageReference",

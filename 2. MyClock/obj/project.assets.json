@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\2. MyClock\\Q2_MyClock.csproj",
-      "projectName": "Q2_MyClock",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\2. MyClock\\Q2_MyClock.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\2. MyClock\\C2_MyClock.csproj",
+      "projectName": "C2_MyClock",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\2. MyClock\\C2_MyClock.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\2. MyClock\\obj\\",
       "projectStyle": "PackageReference",

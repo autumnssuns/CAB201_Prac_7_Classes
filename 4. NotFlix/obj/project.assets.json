@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\4. NotFlix\\Q4_NotFlix.csproj",
-      "projectName": "Q4_NotFlix",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\4. NotFlix\\Q4_NotFlix.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\4. NotFlix\\C4_NotFlix.csproj",
+      "projectName": "C4_NotFlix",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\4. NotFlix\\C4_NotFlix.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\cab201\\CAB201_Prac_7_Classes\\4. NotFlix\\obj\\",
       "projectStyle": "PackageReference",
