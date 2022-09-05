@@ -1,0 +1,32 @@
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S1\Solutions\Week 7\8. Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.csproj.AssemblyReference.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\woodleya\OneDrive - Queensland University of Technology\Documents\Teaching\2021\CAB201 - S2\Topics\Topic 7 - Why Object-Oriented\Solutions\H3. Clock\obj\Debug\netcoreapp3.1\Clock.pdb

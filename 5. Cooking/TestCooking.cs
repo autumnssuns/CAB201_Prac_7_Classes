@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Cooking
+﻿namespace Cooking
 {
 
     /// <summary>
@@ -22,7 +20,7 @@ namespace Cooking
             cooking.AddIngredients("Egg", "1");
             cooking.AddIngredients("Butter", "3 Tablespoons");
 
-            cooking.AddTime(0,20,0);
+            cooking.AddTime(0, 20, 0);
 
             cooking.Display();
         }

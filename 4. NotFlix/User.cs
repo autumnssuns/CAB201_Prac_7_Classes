@@ -1,23 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace NotFlix
 {
+
     /// <summary>
     /// A class that represents a user class for a NotFlix representation. 
     /// </summary>
     class User
     {
+
         /// <summary>
         /// The user's name.
         /// </summary>
-        public string Name { get; private set;}
-        
+        public string Name { get; private set; }
+
         /// <summary>
-        /// The list of DVD Rentals.
+        /// The user's list of movies.
         /// </summary>
-        private List<string> dvdRentals;
+        private List<Movie> movies;
 
         /// <summary>
         /// The user.
@@ -26,31 +26,33 @@ namespace NotFlix
         public User(string name)
         {
             this.Name = name;
-            dvdRentals = new List<string>();
+            this.movies = new List<Movie>();
         }
 
         /// <summary>
-        /// A method that adds a DVD movie for a user.
+        /// A method that adds a movie for a user.
         /// </summary>
-        /// <param name="dvdname">The DVD's name.</param>
-        public void AddMovie(string dvdname)
+        /// <param name="dvdname">The movie's name.</param>
+        /// <param name="time">The movie's time that someone has watched it.</param>
+        public void AddMovie(string movieName, int time)
         {
-            dvdRentals.Add(dvdname);
+            Movie movie = new Movie(movieName, time);
+            movies.Add(movie);
         }
 
         /// <summary>
-        /// Gets the list of DVD movies.
+        /// Gets the list of movies.
         /// </summary>
-        /// <returns>A list of DVD movies.</returns>
+        /// <returns>A list of movies.</returns>
         public string GetMovies()
         {
-            string movies = "";
-            for(int i=0; i<dvdRentals.Count; i++)
+            string movieNames = "";
+            for (int i = 0; i < movies.Count; i++)
             {
-                movies += dvdRentals[i] + ",";
+                movieNames += movies[i].Name + ",";
             }
-            movies  = movies.Trim(',');
-            return movies;
+            movieNames = movieNames.Trim(',');
+            return movieNames;
         }
 
     }
