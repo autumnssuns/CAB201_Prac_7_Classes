@@ -1,0 +1,15 @@
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\bin\Debug\net6.0\C2_MyClock.exe
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\bin\Debug\net6.0\C2_MyClock.deps.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\bin\Debug\net6.0\C2_MyClock.runtimeconfig.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\bin\Debug\net6.0\C2_MyClock.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\bin\Debug\net6.0\C2_MyClock.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.csproj.AssemblyReference.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.AssemblyInfoInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.AssemblyInfo.cs
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\refint\C2_MyClock.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\C2_MyClock.genruntimeconfig.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\2. MyClock\obj\Debug\net6.0\ref\C2_MyClock.dll
