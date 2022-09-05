@@ -32,8 +32,11 @@ namespace MyDate
                         if (isLeapYear) dayLimit = 29;
                         else dayLimit = 28;
                         break;
-                    default:
+                    case 4 or 6 or 9 or 11:
                         dayLimit = 30;
+                        break;
+                    default:
+                        dayLimit = 0;
                         break;
                 }
                 if (day > dayLimit)

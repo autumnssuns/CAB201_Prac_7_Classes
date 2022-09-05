@@ -1,0 +1,15 @@
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\bin\Debug\net6.0\C4_NotFlix.exe
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\bin\Debug\net6.0\C4_NotFlix.deps.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\bin\Debug\net6.0\C4_NotFlix.runtimeconfig.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\bin\Debug\net6.0\C4_NotFlix.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\bin\Debug\net6.0\C4_NotFlix.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.csproj.AssemblyReference.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.AssemblyInfoInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.AssemblyInfo.cs
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\refint\C4_NotFlix.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\C4_NotFlix.genruntimeconfig.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\4. NotFlix\obj\Debug\net6.0\ref\C4_NotFlix.dll
