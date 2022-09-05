@@ -1,0 +1,15 @@
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\bin\Debug\net6.0\C3_MyDate.exe
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\bin\Debug\net6.0\C3_MyDate.deps.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\bin\Debug\net6.0\C3_MyDate.runtimeconfig.json
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\bin\Debug\net6.0\C3_MyDate.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\bin\Debug\net6.0\C3_MyDate.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.csproj.AssemblyReference.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.AssemblyInfoInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.AssemblyInfo.cs
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\refint\C3_MyDate.dll
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.pdb
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\C3_MyDate.genruntimeconfig.cache
+C:\Users\MELTUser\Documents\CAB201_Prac_7_Classes\3. MyDate\obj\Debug\net6.0\ref\C3_MyDate.dll
