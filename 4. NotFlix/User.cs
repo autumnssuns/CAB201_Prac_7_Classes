@@ -17,7 +17,7 @@ namespace NotFlix
         /// <summary>
         /// The list of DVD Rentals.
         /// </summary>
-        private List<string> dvdRentals;
+        private List<Movie> dvdRentals;
 
         /// <summary>
         /// The user.
@@ -26,7 +26,7 @@ namespace NotFlix
         public User(string name)
         {
             this.Name = name;
-            dvdRentals = new List<string>();
+            dvdRentals = new List<Movie>();
         }
 
         /// <summary>
@@ -35,7 +35,7 @@ namespace NotFlix
         /// <param name="dvdname">The DVD's name.</param>
         public void AddMovie(string dvdname)
         {
-            dvdRentals.Add(dvdname);
+            dvdRentals.Add(new Movie(dvdname));
         }
 
         /// <summary>
@@ -47,11 +47,21 @@ namespace NotFlix
             string movies = "";
             for(int i=0; i<dvdRentals.Count; i++)
             {
-                movies += dvdRentals[i] + ",";
+                movies += dvdRentals[i].MovieName + ":" + dvdRentals[i].WatchCount +  ",";
             }
             movies  = movies.Trim(',');
             return movies;
         }
 
+        public void Watch(string movieName)
+        {
+            for (int i = 0; i < dvdRentals.Count; i++)
+            {
+                if (dvdRentals[i].MovieName == movieName)
+                {
+                    dvdRentals[i].IncreaseWatchCount();
+                }
+            }
+        }
     }
 }

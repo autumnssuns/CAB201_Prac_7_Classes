@@ -22,11 +22,15 @@ namespace NotFlix
             sam.AddMovie("Rocky");
             sam.AddMovie("Rocky II");
             sam.AddMovie("Rocky IV");
+            sam.Watch("Rocky");
+            sam.Watch("Rocky");
+            sam.Watch("Rocky");
             Console.WriteLine(sam.Name + " favourite movies " + sam.GetMovies());
 
             bob.AddMovie("Citizen Kane");
             bob.AddMovie("Gone with the Wind");
             bob.AddMovie("Roman Holiday");
+            bob.Watch("Roman Holiday");
             Console.WriteLine(bob.Name + " favourite movies " + bob.GetMovies());
         }
     }
